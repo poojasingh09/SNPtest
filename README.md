@@ -9,3 +9,7 @@ Diploid data from mother of the 106 progeny
 ### aim ###
 Compare efficieny of SNPs called from SAMtoola, GATK, varscan and FreeBayes
 
+
+##server ###
+all analyses were run the Graham server of compute canada
+
