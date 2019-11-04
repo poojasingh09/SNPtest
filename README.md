@@ -12,7 +12,7 @@ Compare efficieny of SNPs called from SAMtools, GATK, varscan and FreeBayes
 This is only the samtools (bcftools) part
 
 
-##server ###
+### server ###
 all analyses were run the Graham server of compute canada
 slurm submisison manager was used
 
