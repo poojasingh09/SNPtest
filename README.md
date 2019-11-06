@@ -2,7 +2,7 @@
 # Pooja Singh October 2019
 SNP calling samtools pipeline that forms part of a larger project to compare various SNP calling algorithms
 
-### input data ####
+### input data ###
 Haploid megagametophyte sequencing data from 106 Lodgepole pine progeny
 Diploid data from mother of the 106 progeny
 
@@ -17,7 +17,7 @@ all analyses were run the Graham server of compute canada
 slurm submisison manager was used
 
 
-## analysis ###
+### analysis ###
 bcftools (samtools) was used to call SNPs and vcftools was used to filter SNPs with basic filters, more stringent filters
 can be also implemented as required
 
