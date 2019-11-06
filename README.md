@@ -10,6 +10,8 @@ Diploid data from mother of the 106 progeny
 ### aim ###
 Compare efficieny of SNPs called from SAMtools, GATK, varscan and FreeBayes
 This is only the samtools (bcftools) part
+NB: samtools mpileup to call SNPs is deprecated, thus we use bcftools mpileup
+NB: samtools mpileup is still fine to direct to tools like varscan etc
 
 
 ### server ###
