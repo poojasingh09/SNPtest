@@ -26,6 +26,8 @@ NB: samtools mpileup to call SNPs is deprecated, thus we use bcftools mpileup
 
 NB: samtools mpileup is still fine to direct to tools like varscan etc
 
+NB: be careful with the new -G population flag in bcftools
+
 
 sbatch script contains all the steps
 
