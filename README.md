@@ -1,6 +1,6 @@
 # SNPtest project (Yeaman Lab)
 # Pooja Singh October 2019
-SNP calling samtools pipeline that forms part of a larger project to compare various SNP calling algorithms
+SNP calling samtools pipeline that forms part of a larger project to compare various SNP calling algorithms that was published in Molecular Ecology Resources: https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13628
 
 ### input data ###
 Haploid megagametophyte sequencing data from 106 Lodgepole pine progeny
